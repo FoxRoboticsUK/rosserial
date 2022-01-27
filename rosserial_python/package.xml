@@ -12,6 +12,8 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
+  <run_depend>boncpp</run_depend>
+
   <run_depend>rospy</run_depend>
   <run_depend>rosserial_msgs</run_depend>
   <run_depend>diagnostic_msgs</run_depend>
